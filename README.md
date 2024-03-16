@@ -1,2 +1,2 @@
-# js-week-4-homework
-Javascript course week 4 homework
+# js-week-2
+JS course week 2 homework
